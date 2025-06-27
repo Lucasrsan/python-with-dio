@@ -1,0 +1,27 @@
+# 🚀 Bootcamp Python DIO
+
+Este repositório reúne meus estudos, desafios e projetos desenvolvidos durante o **Bootcamp de Python da [DIO](https://www.dio.me/)**. Minha jornada aqui é documentar o que aprendi e demonstrar minha evolução como desenvolvedor.
+
+## 📚 Conteúdo
+
+### 🧠 Cursos
+Anotações e exercícios de aprendizado dos cursos:
+
+- [Fundamentos do Python](cursos/fundamentos-python/)
+- [Git e GitHub](cursos/git-e-github/)
+
+### 💻 Desafios
+Problemas propostos durante o bootcamp:
+
+- [`sistema-bancario.py`](desafios/sistema-bancario.py) — simula operações bancárias simples via terminal.
+
+### 🛠️ Projetos
+Projetos mais completos desenvolvidos durante o bootcamp:
+
+*(em breve!)*
+
+## 📁 Estrutura de Pastas
+
+
+
+
