@@ -5,4 +5,4 @@ Nesta pasta estão os desafios de programação propostos no bootcamp. Cada desa
 ## Lista de desafios
 
 - `sistema-bancario.py`: simulação de operações bancárias básicas via terminal.
-- *(adicione aqui os próximos desafios conforme for subindo!)*
+- `simulador-compras.py`: simulação de carrinho de compras que permite adicionar produtos e calcular o valor total da compra.
