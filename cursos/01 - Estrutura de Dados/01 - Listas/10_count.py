@@ -1,5 +1,5 @@
-cores = ["vermelho", "azul", "verde", "azul"]
+cores = ["vermelho", "azul", "verde", "azul","verde","azul"]
 
-print(cores.count("vermelho"))  # 1
-print(cores.count("azul"))  # 2
-print(cores.count("verde"))  # 1
+print("Vermelho: ",cores.count("vermelho"))  # 1
+print("Azul: ",cores.count("azul"))  # 3
+print("Verde: ",cores.count("verde"))  # 2

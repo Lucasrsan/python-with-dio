@@ -1,7 +1,7 @@
-lista = [1, "Python", [40, 30, 20]]
+lista_de_compras = ["Laranja","Maça","Morango"]
 
-print(lista)  # [1, "Python", [40, 30, 20]]
+print(lista_de_compras)  # ['Laranja', 'Maça', 'Morango']
 
-lista.clear()
+lista_de_compras.clear() # limpa a lista
 
-print(lista)  # []
+print(lista_de_compras)  # [] 

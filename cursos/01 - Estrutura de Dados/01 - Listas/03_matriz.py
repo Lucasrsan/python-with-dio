@@ -1,10 +1,9 @@
-matriz = [
-    [1, "a", 2],
-    ["b", 3, 4],
-    [6, 5, "c"]
+funcionarios = [
+    ["João", "Support Analyst", "joaogomes@gmail.com"],
+    ["Sabrina","Finance Analyst","sabrinalopes@gmail.com"],
+    ["Pedro","Manager","pedrodasilva@gmail.com"]
 ]
 
-print(matriz[0])  # [1, "a", 2]
-print(matriz[0][0])  # 1
-print(matriz[0][-1])  # 2
-print(matriz[-1][-1])  # "c"
+print(funcionarios[1][:2]) #retorna a linha da Sabrina de toda coluna até o indice 2
+print(funcionarios[-1][-1]) #retorna a ultima linha com a ultima coluna
+print(funcionarios[0][-1]) #retorna a primeira linha com a ultima coluna

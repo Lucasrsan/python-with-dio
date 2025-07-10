@@ -1,3 +1,4 @@
+# O pop serve para retirar algo do topo seguindo o conceito de pilhas
 linguagens = ["python", "js", "c", "java", "csharp"]
 
 print(linguagens.pop())  # csharp

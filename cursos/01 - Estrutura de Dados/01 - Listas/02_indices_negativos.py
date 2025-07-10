@@ -1,4 +1,4 @@
-frutas = ["maçã", "laranja", "uva", "pera"]
+nomes = ["João", "Felipe", "Sabrina", "Carlos", "Maria"]
 
-print(frutas[-1])  # pera
-print(frutas[-3])  # laranja
+print(nomes[::-1]) #retorna tudo :: de forma inversa
+print(nomes[::-2]) # retorna tudo :: de dois em dois
