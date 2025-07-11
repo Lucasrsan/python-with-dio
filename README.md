@@ -17,8 +17,6 @@ Problemas propostos durante o bootcamp:
 - [`simulador-compras.py`](desafios/simulador-compras.py) — simula um carrinho de compras, permitindo adicionar produtos e calcular o valor total da compra.
 - [`organizador-eventos.py`](desafios/organizador-eventos.py) — sistema que organiza participantes de evento.
 
-
-- :
 ### 🛠️ Projetos
 Projetos mais completos desenvolvidos durante o bootcamp:
 
