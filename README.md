@@ -14,7 +14,9 @@ Anotações e exercícios de aprendizado dos cursos:
 Problemas propostos durante o bootcamp:
 
 - [`sistema-bancario.py`](desafios/sistema-bancario.py) — simula operações bancárias simples via terminal.
+- [`simulador-compras.py`](desafios/simulador-compras.py) — simula um carrinho de compras, permitindo adicionar produtos e calcular o valor total da compra.
 
+- `organizador-eventos.py`:
 ### 🛠️ Projetos
 Projetos mais completos desenvolvidos durante o bootcamp:
 
