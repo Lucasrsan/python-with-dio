@@ -7,7 +7,7 @@ Este repositório reúne meus estudos, desafios e projetos desenvolvidos durante
 ### 🧠 Cursos
 Anotações e exercícios de aprendizado dos cursos:
 
-- [Fundamentos do Python](cursos/00 - Fundamentos/)
+- [Fundamentos do Python](Cursos/00 - Fundamentos/)
 - [Git e GitHub](cursos/git-e-github/)
 
 ### 💻 Desafios
