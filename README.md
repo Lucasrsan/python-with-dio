@@ -16,6 +16,7 @@ Problemas propostos durante o bootcamp:
 - [`sistema-bancario.py`](desafios/sistema-bancario.py) — simula operações bancárias simples via terminal.
 - [`simulador-compras.py`](desafios/simulador-compras.py) — simula um carrinho de compras, permitindo adicionar produtos e calcular o valor total da compra.
 - [`organizador-eventos.py`](desafios/organizador-eventos.py) — sistema que organiza participantes de evento.
+- [`atendimento-medico.py`](desafios/atendimento-medico.py) — sistema de atendimento medico com ordem de prioridade.
 
 ### 🛠️ Projetos
 Projetos mais completos desenvolvidos durante o bootcamp:
