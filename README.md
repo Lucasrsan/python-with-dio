@@ -1,13 +1,14 @@
 # 🚀 Bootcamp Python DIO
 
-Este repositório reúne meus estudos, desafios e projetos desenvolvidos durante o **Bootcamp de Python da [DIO](https://www.dio.me/)**. Minha jornada aqui é documentar o que aprendi e demonstrar minha evolução como desenvolvedor.
+Este repositório reúne meus estudos, desafios e projetos desenvolvidos durante o **Bootcamp de Python da [DIO](https://www.dio.me/)**. Minha jornada aqui é documentar o que aprendi ter um lugar onde eu possa revisar os conteúdos aprendidos.
 
 ## 📚 Conteúdo
 
 ### 🧠 Cursos
 Anotações e exercícios de aprendizado dos cursos:
 
-- [Fundamentos do Python](Cursos/00 - Fundamentos/)
+- [Fundamentos do Python](cursos/00%20-%20Fundamentos)
+- [Estrutura de Dados](cursos/01%20-%20Estrutura%20de%20Dados)
 - [Git e GitHub](cursos/git-e-github/)
 
 ### 💻 Desafios
@@ -19,11 +20,8 @@ Problemas propostos durante o bootcamp:
 - [`atendimento-medico.py`](desafios/atendimento-medico.py) — sistema de atendimento medico com ordem de prioridade.
 
 ### 🛠️ Projetos
-Projetos mais completos desenvolvidos durante o bootcamp:
-
 *(em breve!)*
 
-## 📁 Estrutura de Pastas
 
 
 
