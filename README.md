@@ -19,10 +19,6 @@ Problemas propostos durante o bootcamp:
 - [`organizador-eventos.py`](desafios/organizador-eventos.py) — sistema que organiza participantes de evento.
 - [`atendimento-medico.py`](desafios/atendimento-medico.py) — sistema de atendimento medico com ordem de prioridade.
 
-### 🛠️ Projetos
-*(em breve!)*
-
-
 
 
 
